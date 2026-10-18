@@ -23,6 +23,7 @@ else
 
 
 
+    
 
 
 std::cout <<"Your Currency is " << LCURstring << " / " << LCUR << std::endl;
